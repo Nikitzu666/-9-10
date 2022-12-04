@@ -28,7 +28,6 @@
 ![image](https://user-images.githubusercontent.com/119733911/205498809-e0cb41ce-57df-4b8e-b138-90f3f1307555.png)
 Рисунок 9.3 – Окно выигрыша 
 
-
 Разработка геймплея игры
 Листинг 9.1. GameManager.cs
 using System;
